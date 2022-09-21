@@ -5,7 +5,7 @@ Hi, I'm Manuel. These is what I currently do for living:
 
 
 Right now I'm in the process of learning all the good stuff to become a Web Dev. 
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/11ASZtb7vdJagM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loading-11ASZtb7vdJagM">via GIPHY</a></p>
+ 
 
 Technologies & Frameworks that I'm good at: 
 -HTML
