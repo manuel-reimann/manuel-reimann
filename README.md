@@ -7,11 +7,12 @@ Hi, I'm Manuel. These is what I currently do for living: <br>
 Right now I'm in the process of learning all the good stuff to become a Web Dev. 
  
 
-Technologies & Frameworks that I'm good at: 
+Technologies & Frameworks that I'm good at:<br> 
 -HTML<br>
 -CSS<br>
--Bootstrap<br>
 -Tailwind<br>
+-Bootstrap<br>
+
 
 
 Technologies & Frameworks that I worked with, but still need practice:<br> 
