@@ -14,12 +14,12 @@ Technologies & Frameworks that I'm good at:
 -Tailwind<br>
 
 
-Technologies & Frameworks that I worked with, but still need practice: 
+Technologies & Frameworks that I worked with, but still need practice:<br> 
 -Javascript<br>
 -Jquery<br>
 -PHP<br>
 
-Things I learned at school: 
+Things I learned at school: <br>
 -Sass<br>
 -Typescript<br>
 -WebGL<br>
