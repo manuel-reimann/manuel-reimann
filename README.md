@@ -13,9 +13,11 @@ Technologies & Frameworks that I'm good at:
 -Bootstrap
 -Tailwind
 
+
 Technologies & Frameworks that I worked with, but still need practice: 
 -Javascript
 -Jquery
+-PHP
 
 Things I learned at school: 
 -Sass
