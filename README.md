@@ -1,4 +1,4 @@
-Hi, I'm Manuel. These is what I currently do for living: 
+Hi, I'm Manuel. These is what I currently do for living: <br>
 -Photography <br>
 -Film <br>
 -Frontend Websites<br>
