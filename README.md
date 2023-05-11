@@ -12,16 +12,17 @@ Technologies & Frameworks that I'm good at:<br>
 -CSS<br>
 -Tailwind<br>
 -Bootstrap<br>
-
+-Javascript<br>
+-PHP Procedural<br>
 
 
 Technologies & Frameworks that I worked with, but still need practice:<br> 
--Javascript<br>
--Jquery<br>
--PHP<br>
-
-Things I learned at school: <br>
--Sass<br>
 -Typescript<br>
--WebGL<br>
-... many others
+-Jquery<br>
+-PHP OOP<br>
+-SASSS<br>
+-React<br>
+-Node.js<br>
+-MySQL
+
+
